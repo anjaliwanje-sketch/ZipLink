@@ -1,0 +1,4 @@
+- [x] Remove IconButton for 'Active Transfers' from appBar in lib/screens/home_screen.dart
+- [x] Remove import of 'screens/active_transfer_screen.dart' and GoRoute for '/active-transfers' from lib/main.dart
+- [x] Delete lib/screens/active_transfer_screen.dart
+- [x] Delete lib/providers/active_transfers_provider.dart
